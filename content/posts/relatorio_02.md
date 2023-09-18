@@ -1,7 +1,7 @@
 ---
 title: "Relatório II"
 date: 2023-09-18T16:15:09-03:00
-draft: true
+draft: false
 toc: false
 images:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Relatório I"
 date: 2023-09-18T16:10:17-03:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
