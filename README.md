@@ -1,5 +1,7 @@
 # Hugo Site
 
+![Status Badge](https://github.com/EnzoDelmachio/EnzoDelmachio.github.io/actions/workflows/hugo.yaml/badge.svg)
+
 Este é um projeto no escopo da aula de Gerência de Configuração. Se trata de um site estático gerado automaticamente pelo framework Hugo.
 
 
