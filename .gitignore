@@ -1,0 +1,5 @@
+# Temporary file generated while building
+/.hugo_build.lock
+
+# Hugo executable
+/hugo.exe
